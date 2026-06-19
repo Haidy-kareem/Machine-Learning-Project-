@@ -1,10 +1,10 @@
-# FIFA Player Valuation & Performance Tier Prediction
+## FIFA Player Valuation & Performance Tier Prediction
 
 A machine learning project that predicts a football player's market value 
-(regression) and classifies their performance tier — Low, Mid, High, Elite 
-(classification) — using the FIFA player dataset.
+(regression) and classifies their performance tier -Low, Mid, High, Elite 
+(classification) - using the FIFA player dataset.
 
-## What this project does
+### What this project does
 - Exploratory Data Analysis and preprocessing (outlier handling, encoding, scaling)
 - Regression models: Linear, Polynomial, Ridge, Lasso
 - Classification models: Logistic Regression, Naive Bayes
@@ -13,6 +13,6 @@ A machine learning project that predicts a football player's market value
 - Model evaluation using cross-validation
 - A unified pipeline that takes a player's stats and outputs both predicted value and performance tier
 
-## Tech stack
+### Tech stack
 Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
 
